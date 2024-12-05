@@ -1,4 +1,4 @@
-### README for Log Analyzer Script
+### Log Analyzer
 
 ---
 
